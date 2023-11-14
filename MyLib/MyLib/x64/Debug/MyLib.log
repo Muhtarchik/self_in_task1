@@ -1,0 +1,8 @@
+﻿  MyLib.cpp
+C:\Users\ivanb\source\repos\MyLib\MyLib\MyLib.cpp(24,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ivanb\source\repos\MyLib\MyLib\MyLib.cpp(83,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  test23.cpp
+  WwFiles.cpp
+C:\Users\ivanb\source\repos\MyLib\MyLib\WwFiles.cpp(34,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  MyLib.vcxproj -> C:\Users\ivanb\source\repos\MyLib\x64\Debug\MyLib.exe
