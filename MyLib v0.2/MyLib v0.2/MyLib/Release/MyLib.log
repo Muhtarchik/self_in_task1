@@ -1,0 +1,12 @@
+﻿  MyLib.cpp
+C:\Users\ivanb\OneDrive\Desktop\MyLib v0.2\MyLib v0.2\MyLib\MyLib.cpp(24,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ivanb\OneDrive\Desktop\MyLib v0.2\MyLib v0.2\MyLib\MyLib.cpp(94,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  test23.cpp
+  WwFiles.cpp
+C:\Users\ivanb\OneDrive\Desktop\MyLib v0.2\MyLib v0.2\MyLib\WwFiles.cpp(34,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  476 of 487 functions (97.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  MyLib.vcxproj -> C:\Users\ivanb\OneDrive\Desktop\MyLib v0.2\MyLib v0.2\Release\MyLib.exe
